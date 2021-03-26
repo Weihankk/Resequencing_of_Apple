@@ -15,13 +15,13 @@ College of Informatics, Huazhong Agricultural University, P.R.China
 
 ## Introduction to major analysis content
 1. Quality control of raw data
-2. Mapping to the reference genome
+2. Clean data mapping to the reference genome
 3. Convert to bam, filter low quality, remove duplications
-4. SNP Calling
+4. SNP calling
 5. SNP filtering
 6. Genotype imputation
 7. SNP annotation
-8. Construct phylogenetic genetic tree
+8. Construct phylogenetic tree
 9. PCA analysis
 10. STRUCTURE analysis
 11. Linkage disequilibrium analysis
