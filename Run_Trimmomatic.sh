@@ -1,0 +1,1 @@
+java -jar trimmomatic-0.36.jar PE -threads 12 -phred33 $RAWDIR/$i\_1.fastq $RAWDIR/$i\_2.fastq $RESULTDIR/$i\_1P.fastq $RESULTDIR/$i\_1U.fastq $RESULTDIR/$i\_2P.fastq $RESULTDIR/$i\_2U.fastq HEADCROP:3 TRAILING:20 SLIDINGWINDOW:6:15 MINLEN:90
